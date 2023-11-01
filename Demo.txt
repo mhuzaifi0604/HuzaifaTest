@@ -1,1 +1,2 @@
-Demo for git for Lab # 09
+Demo for git for Lab # 0
+Checking for staged Commit
